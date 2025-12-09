@@ -187,22 +187,20 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <!-- Gráfico de Contribuições -->
-  <img 
-    align="left" 
-    alt="GitHub Activity Graph" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://activity-graph.herokuapp.com/graph?username=AntonioLuizBueno&theme=github" 
-  />
-
-  <!-- Gráfico de Linguagens Mais Usadas -->
-  <img 
-    align="left" 
-    alt="GitHub Top Languages" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLuizBueno&theme=tokyonight&layout=compact" 
-  />
+<p align="left"> 
+    <a href="https://github.com/AntonioLuizBueno?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://img.shields.io/github/stars/AntonioLuizBueno?style=social"
+        />
+    </a>
+    <a href="https://github.com/AntonioLuizBueno?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/github/followers/AntonioLuizBueno?style=social"
+        />
+    </a>
 </p>
+

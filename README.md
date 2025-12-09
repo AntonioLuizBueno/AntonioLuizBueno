@@ -188,19 +188,20 @@
 ### 📊 Estatísticas
 
 <p align="left"> 
-    <a href="https://github.com/AntonioLuizBueno?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://img.shields.io/github/stars/AntonioLuizBueno?style=social"
-        />
-    </a>
-    <a href="https://github.com/AntonioLuizBueno?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/AntonioLuizBueno?style=social"
-        />
-    </a>
+   <a href="https://github.com/AntonioLuizBueno?tab=repositories&sort=stargazers">
+       <img 
+           alt="Total de estrelas" 
+           title="Total de estrelas GitHub" 
+           src="https://img.shields.io/github/stars/AntonioLuizBueno?style=social"
+       />
+   </a>
+   <a href="https://github.com/AntonioLuizBueno?tab=followers">
+       <img 
+           alt="Seguidores" 
+           title="Me siga no GitHub" 
+           src="https://img.shields.io/github/followers/AntonioLuizBueno?style=social"
+       />
+   </a>
 </p>
+
 

@@ -188,6 +188,7 @@
 ### 📊 Estatísticas
 
 <p>
+  <!-- Gráfico de Estatísticas -->
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -196,13 +197,15 @@
     src="https://github-readme-stats.vercel.app/api?username=AntonioLuizBueno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  <!-- Gráfico de Linguagens -->
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLuizBueno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLuizBueno&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" 
   />
 </p>
+
 
 
 

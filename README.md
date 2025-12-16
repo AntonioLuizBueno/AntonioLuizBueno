@@ -67,7 +67,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"        
 />
 <img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
